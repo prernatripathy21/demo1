@@ -1,4 +1,4 @@
 # demo1
+Hey, 
 <br>
-<hr>
-Hey, This is demo repository.
+This is demo repository.
